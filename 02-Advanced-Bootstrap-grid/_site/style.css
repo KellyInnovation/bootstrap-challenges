@@ -1,0 +1,22 @@
+header {
+	color: #828282;
+}
+
+.bg-white {
+	background: white;
+	padding: 50px;
+}
+
+.bg-blue {
+	background: #3079AB;
+}
+
+.bg-grey {
+	background: grey;
+}
+
+.white-card {
+	background: white;
+	padding: 5px 15px;
+}
+
